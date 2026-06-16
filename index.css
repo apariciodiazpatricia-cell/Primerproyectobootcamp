@@ -1,0 +1,48 @@
+body {
+    background-color: hsl(54, 89%, 74%);
+}
+
+header {
+    background-color: #070707;
+    color: #f8f8f5;
+    padding: 1em;
+    text-align: center;
+}
+h3 {
+    color: #070707;
+}
+.datos{
+    color:#070707
+}
+.formacion{
+    color:#070707
+}
+.competencias{
+    color:#070707
+}
+.herramientas{
+    color:#070707
+}
+.aficiones{
+    color:#070707
+}
+.trayectoria{
+    color:#070707
+}
+nav {
+    background-color: #f3f727;
+    padding: 1em;
+text-align: center ;
+    color: #070707;
+}
+hr {
+    display:none;
+}
+
+
+footer {
+    background-color:#070707;
+    color: #f4f5ef;
+    text-align: center;
+    padding: 1em;
+}

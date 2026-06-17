@@ -1,9 +1,11 @@
 body {
-    background-color: hsl(54, 89%, 74%);
+    background-color: #efefed;
+    
 }
 
 header {
     background-color: #070707;
+    Width: 1380px;
     color: #f8f8f5;
     padding: 1em;
     text-align: center;
@@ -30,8 +32,9 @@ h3 {
     color:#070707
 }
 nav {
-    background-color: #f3f727;
+    background-color: #F6e509;
     padding: 1em;
+    width: 1380px;
 text-align: center ;
     color: #070707;
 }
@@ -43,6 +46,7 @@ hr {
 footer {
     background-color:#070707;
     color: #f4f5ef;
+    width: 1380px;
     text-align: center;
     padding: 1em;
 }
